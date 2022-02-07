@@ -1,5 +1,5 @@
 import java.util.*;
-public class Exercose05_01{
+public class Exercise05_01{
   public static void main(String[] args){
     var stdin = new Scanner(System.in);
     var array = new ArrayList<Integer>();
